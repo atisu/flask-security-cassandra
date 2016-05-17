@@ -1,0 +1,7 @@
+Flask==0.10.1
+Flask-Security
+https://github.com/cqlengine/cqlengine/archive/master.zip
+https://github.com/chillinc/CQLEngine-Session/archive/master.zip
+https://github.com/chillinc/Flask-CQLEngine/archive/master.zip
+uwsgi
+requests
